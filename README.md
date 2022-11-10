@@ -1,10 +1,8 @@
 # CoppeliaSim scenes
 
-## 1. Download the desired CoppeliaSim scene
+Install [CoppeliaSim.](https://www.coppeliarobotics.com/)
 
-Download the desired CoppeliaSim scene [here.](https://drive.google.com/file/d/1tFZFfcVs8RqRbbpOiv_L9QFuUl6viiUe/view?usp=share_link)
-
-## 2. Enable the CoppeliaSim ports
+## 1. Enable the CoppeliaSim ports
 
 Open the file .../CoppeliaSim_Edu/remoteApiConnections.txt and add the following ports:
 
@@ -64,3 +62,8 @@ portIndex7_port             = 20020
 portIndex7_debug            = false
 portIndex7_syncSimTrigger   = true
 ```
+
+## 2. Download the desired CoppeliaSim scene
+
+Download the desired CoppeliaSim scene [here.](https://drive.google.com/file/d/1tFZFfcVs8RqRbbpOiv_L9QFuUl6viiUe/view?usp=share_link)
+
