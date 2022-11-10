@@ -67,3 +67,7 @@ portIndex7_syncSimTrigger   = true
 
 Download the desired CoppeliaSim scene [here.](https://drive.google.com/file/d/1tFZFfcVs8RqRbbpOiv_L9QFuUl6viiUe/view?usp=share_link)
 
+## 3. Open the scene
+
+![Screenshot 2022-11-10 125810](https://user-images.githubusercontent.com/23158313/200997347-1e8ea0d3-edbf-434e-ba22-19b27415e537.png)
+
