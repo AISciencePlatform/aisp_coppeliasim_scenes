@@ -1,5 +1,35 @@
-# aisp_coppeliasim_scenes
+# CoppeliaSim scenes
 
+## 1. Download the desired CoppeliaSim scene
+
+Download the desired CoppeliaSim scene [here.](https://drive.google.com/file/d/1tFZFfcVs8RqRbbpOiv_L9QFuUl6viiUe/view?usp=share_link)
+
+## 2. Enable the CoppeliaSim ports
+
+Open the file .../CoppeliaSim_Edu/remoteApiConnections.txt and add the following ports:
+
+```shell
+portIndex2_port             = 19998
+portIndex2_debug            = false
+portIndex2_syncSimTrigger   = true
+portIndex3_port             = 20010
+portIndex3_debug            = false
+portIndex3_syncSimTrigger   = true
+portIndex4_port             = 20011
+portIndex4_debug            = false
+portIndex4_syncSimTrigger   = true
+portIndex5_port             = 20012
+portIndex5_debug            = false
+portIndex5_syncSimTrigger   = true
+portIndex6_port             = 20013
+portIndex6_debug            = false
+portIndex6_syncSimTrigger   = true
+portIndex7_port             = 20020
+portIndex7_debug            = false
+portIndex7_syncSimTrigger   = true
+```
+
+Your 'remoteApiConnections.txt' file should look like this
 
 ```txt
 // This file defines all the continuous remote API server services (started at remote API plugin initialization, i.e. CoppeliaSim start-up)
