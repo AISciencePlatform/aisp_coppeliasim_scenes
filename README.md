@@ -63,7 +63,7 @@ portIndex7_debug            = false
 portIndex7_syncSimTrigger   = true
 ```
 
-## 2. Download the desired CoppeliaSim scene
+## 2. Download the latest CoppeliaSim scene
 
 Download the desired CoppeliaSim scene [here.](https://drive.google.com/file/d/1tFZFfcVs8RqRbbpOiv_L9QFuUl6viiUe/view?usp=share_link)
 
