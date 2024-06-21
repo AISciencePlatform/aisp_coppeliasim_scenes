@@ -65,7 +65,7 @@ portIndex7_syncSimTrigger   = true
 
 ## 2. Download the latest CoppeliaSim scene
 
-Download the desired CoppeliaSim scene [here.](https://drive.google.com/file/d/1tFZFfcVs8RqRbbpOiv_L9QFuUl6viiUe/view?usp=share_link)
+Download the desired CoppeliaSim scene [here.](https://github.com/AISciencePlatform/aisp_coppeliasim_scenes/blob/main/scenes/aisp_coppeliasim_scene.ttt)
 
 ## 3. Open the scene
 
